@@ -4,6 +4,8 @@
 
 # Project 3. Hotel rating prediction.
 
+The solution is deposited on Kaggle!
+(https://www.kaggle.com/code/dvnova/hotels-rating-prediction-v1-2)
 
 ### Project description    
 EDA for the model for hotel rating prediction.
