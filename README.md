@@ -2,7 +2,7 @@
 
 # Sf_data_science_project-3
 
-# Project 6. Hotel rating prediction.
+# Project 3. Hotel rating prediction.
 
 
 ### Project description    
